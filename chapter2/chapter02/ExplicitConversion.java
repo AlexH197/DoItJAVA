@@ -1,4 +1,4 @@
-package chapter2;
+package chapter02;
 
 public class ExplicitConversion {
     public static void main(String[] args) {
