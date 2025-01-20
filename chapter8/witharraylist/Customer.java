@@ -1,4 +1,4 @@
-package polymorphism;
+package witharraylist;
 
 public class Customer {
     protected int customerID;

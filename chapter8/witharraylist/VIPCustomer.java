@@ -1,10 +1,10 @@
-package polymorphism;
+package witharraylist;
 
-public class VIPCustomer  extends Customer{
+public class VIPCustomer extends Customer {
     private int agentID;
     double saleRatio;
 
-    public VIPCustomer(int customerID, String customerName,int agentID) {
+    public VIPCustomer(int customerID, String customerName, int agentID) {
         super(customerID, customerName);
 
         customerGrade = "VIP";
